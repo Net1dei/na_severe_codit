@@ -2,7 +2,8 @@
 
 [Ссылка](https://drive.google.com/file/d/1x1lyyLGr3OBnEDiehikiudvJsWOxZ5I5/view?usp=drive_link) на скачивание модели для пунктуатора, её надо переместить в папку [ru_punct](django1/hackathon/ru_punct).
 
-Можно использовать Docker([Ссылка](https://hub.docker.com/repository/docker/alexxx1xx/nasevcode/general)):
+Можно использовать Docker([Ссылка](https://hub.docker.com/repository/docker/alexxx1xx/nasevcode/general)).
+
 Как запустить проект без docker:
 1) Скачачайте папку django1
 2) Откройте проект в любом редакторе кода (Например Visual studio code)
