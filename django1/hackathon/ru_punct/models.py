@@ -28,7 +28,7 @@ def load(x, p=None):
     import pickle
     import numpy as np
 
-    with open('ru_punct\\Model_ru_punctuator_h256_lr0.02.pcl', 'rb') as f:
+    with open(r'ru_punct/Model_ru_punctuator_h256_lr0.02.pcl', 'rb') as f:
         state = pickle.load(f)
 
     Model = getattr(models, state["type"])

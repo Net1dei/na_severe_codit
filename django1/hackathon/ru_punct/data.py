@@ -10,7 +10,7 @@ import codecs
 import fnmatch
 
 # This is the path where the processed data is created and then stored, update it to where you want to see your data
-DATA_PATH = "ru_punct\\content/data_rpocessed"
+DATA_PATH = r"ru_punct/content/data_rpocessed"
 END = "</S>"
 UNK = "<UNK>"
 
